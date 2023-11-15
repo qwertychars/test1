@@ -1,0 +1,11 @@
+{
+    "require": {
+        "wikimedia/composer-merge-plugin": "^2.1",
+        "telegram-bot/api": "^2.5"
+    },
+    "config": {
+        "allow-plugins": {
+            "wikimedia/composer-merge-plugin": true
+        }
+    }
+}
